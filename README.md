@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Timothy Grey, formerly known as Omphile Gopane
+- South African studying Computer Science and Electronics
+- Novice programmer but a hyper-realism drawer and logo designer at heart
+- Greatly interested in Software Development, Cloud Computing and Web Design (UI/UX)
+- I’m currently learning Software Engineering with ALX and learning Full-Stack Development
