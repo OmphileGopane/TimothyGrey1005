@@ -2,4 +2,4 @@
 - South African student studying Computer Science and Electronics with the NWU
 - Novice programmer but a hyper-realism drawer and logo designer at heart
 - Currently learning Software Engineering with ALX
-- Greatly interested in AI, Full-Stack Development, Cloud Computing and Web Design (UI/UX)
+- Greatly interested in AI, Full-Stack Software Development, Cloud Computing and Web (UI/UX) and Database Design
