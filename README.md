@@ -1,24 +1,33 @@
-# - 👋 Hi, Omphile Gopane here 😄
-#### - Graduate || Honors with Computer Science, North-West University || Learning programming and development
-#### - Interested in Machine Learning and AI, Data Analysis and Security
-#### - Lover of all things art 
+# 👋 Hi, Omphile Gopane here 😄  
+#### - Graduate || Honors with Computer Science, North-West University || Learning programming and development  
+#### - Interested in Machine Learning and AI, Data Analysis, and Security  
+#### - Lover of all things art  
 
+---
 
 ## Blog Posts  
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@omphilegopane913)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@omphilegopane913)  
+
+---
 
 ## Connect with me:  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/@___Grreeyy___)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/omphile-g-433a521b6/)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram)](https://instagram.com/_grreeyy_/)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@omphilegopane913)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/@___Grreeyy___)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omphilegopane/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/___grreeyy___/)  
 
-## Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyGrey1005&layout=compact)
+---
 
-## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimothyGrey1005&show_icons=true&count_private=true)
+## 📊 GitHub Stats:  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmphileGopane&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmphileGopane&layout=compact&theme=radical)  
 
-## Pinned Repositories  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TimothyGrey1005&repo=Apple-Inc.-Stock-Price-Prediction)](https://github.com/TimothyGrey1005/Apple-Inc.-Stock-Price-Prediction)
+---
 
+## 🚀 Pinned Repositories:  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OmphileGopane&repo=YourRepo1&theme=radical)](https://github.com/OmphileGopane/YourRepo1)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OmphileGopane&repo=YourRepo2&theme=radical)](https://github.com/OmphileGopane/YourRepo2)  
+
+---
+
+## 🔥 Streak Stats:  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OmphileGopane&theme=radical)](https://git.io/streak-stats)
