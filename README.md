@@ -1,7 +1,7 @@
-# - 👋 Hi, I’m Timothy Grey, formerly known as Omphile Gopane
-# - Graduate || Honors with Computer Science, North-West University || Learning programming and development
-## - Interested in Machine Learning and AI, Data Analysis and Security
-## - Lover of all things art 
+# - 👋 Hi, Omphile Gopane here 😄
+#### - Graduate || Honors with Computer Science, North-West University || Learning programming and development
+#### - Interested in Machine Learning and AI, Data Analysis and Security
+#### - Lover of all things art 
 
 
 ## Blog Posts  
