@@ -25,7 +25,12 @@
 
 ## 🚀 Pinned Repositories:  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OmphileGopane&repo=Apple-Inc.-Stock-Price-Prediction&theme=radical)](https://github.com/OmphileGopane/Apple-Inc.-Stock-Price-Prediction)  
+
+📌 **AppleStockPrediction-ML** - A stock price forecasting model for Apple Inc. using **LSTM, XGBoost, and SVM**, incorporating **Explainable AI (XAI) with SHAP analysis** to interpret **price fluctuations and market volatility**. The project integrates **Microsoft Excel for data cleaning, Python (Scikit-learn, Pandas, NumPy) for analysis, and Power BI & Streamlit for visualization**.  
+🔗 [Check it out here](https://github.com/OmphileGopane/Apple-Inc.-Stock-Price-Prediction)  
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OmphileGopane&repo=country-population-analysis&theme=radical)](https://github.com/OmphileGopane/country-population-analysis)  
+ 
 
 ---
 
