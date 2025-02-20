@@ -1,5 +1,5 @@
 # Hi there, Omphile Gopane here 😄👋  
-## - Graduate || Honors with Computer Science, North-West University || Learning programming and development  
+### - Graduate || Honors with Computer Science, North-West University || Learning programming and development  
 #### - Interested in Machine Learning and AI, Data Analysis, and Security  
 #### - Lover of all things art  
 
