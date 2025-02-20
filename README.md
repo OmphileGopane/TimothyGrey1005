@@ -18,16 +18,16 @@
 ---
 
 ## 📊 GitHub Stats:  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimothyGrey1005&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyGrey1005&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmphileGopane&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmphileGopane&layout=compact&theme=radical)  
 
 ---
 
 ## 🚀 Pinned Repositories:  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TimothyGrey1005&repo=Apple-Inc.-Stock-Price-Prediction&theme=radical)](https://github.com/OmphileGopane/Apple-Inc.-Stock-Price-Prediction)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TimothyGrey1005&repo=country-population-analysis&theme=radical)](https://github.com/OmphileGopane/country-population-analysis)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OmphileGopane&repo=Apple-Inc.-Stock-Price-Prediction&theme=radical)](https://github.com/OmphileGopane/Apple-Inc.-Stock-Price-Prediction)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OmphileGopane&repo=country-population-analysis&theme=radical)](https://github.com/OmphileGopane/country-population-analysis)  
 
 ---
 
 ## 🔥 Streak Stats:  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TimothyGrey1005&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OmphileGopane&theme=radical)](https://git.io/streak-stats)
